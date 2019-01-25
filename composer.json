@@ -1,0 +1,12 @@
+{
+    "name": "andy/mycom",
+    "description": "这是一个我自己开发的扩展包",
+    "authors": [
+        {
+            "name": "libaowei924",
+            "email": "libaowei924@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
